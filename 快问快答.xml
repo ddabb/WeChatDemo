@@ -1,0 +1,74 @@
+<section class="KolEditor">
+    <section>
+        <p style="margin: 0px; font-size: 15px; line-height: 1.75; letter-spacing: 1.5px; font-weight: 700; color: rgb(0, 0, 0);">国庆小知识快问快答</p>
+    </section>
+    <section>
+        <p style="margin: 0px; font-size: 12px; letter-spacing: 1.5px; font-weight: 700; color: rgb(102, 102, 102);">（点击空白处查看答案）</p>
+    </section>
+    <section style="margin-top: 15px;">
+        <p style="margin: 0px; font-size: 13px; letter-spacing: 1.5px; color: rgb(0, 0, 0);">01.2019年10月1日是中华人民共和国成立多少周年？</p>
+    </section>
+    <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+            <section style="display: inline-block; width: 100%; height: 40px; vertical-align: top; overflow: hidden auto; box-sizing: border-box;">
+                <section style="box-sizing: border-box; margin-top: 4px;">
+                    <section style="margin: 0px 0%; text-align: center; box-sizing: border-box;">
+                        <section style="border-width: 2px; border-style: solid; border-color: transparent; color: rgb(102, 102, 102); text-align: justify; box-sizing: border-box;">
+                            <p style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 13px; color: rgb(102, 102, 102); text-decoration: underline;">
+                    2019年10月1日是中华人民共和国成立
+                                <span style="color: rgb(230, 142, 151);">70周年</span>纪念日。 
+                  
+                            </p>
+                        </section>
+                    </section>
+                </section>
+            </section>
+            <section style="box-sizing: border-box; margin-top: -40px; height: 40px;">
+                <svg width="100%" height="100%"
+                    xmlns="http://www.w3.org/2000/svg" style="box-sizing: border-box; transform: rotateZ(0deg); width: 100%;">
+                    <animate attributeName="opacity" fill="freeze" to="0" from="1" dur="4" begin="click" style="box-sizing: border-box;"></animate>
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" style="opacity: 1; box-sizing: border-box;">
+                        <animate attributeName="" fill="freeze" begin="click + 4s" dur="0" to="0%" style="box-sizing: border-box;"></animate>
+                        <svg width="100%" height="100%" style="box-sizing: border-box;">
+                            <rect width="100%" height="100%" x="0%" style="box-sizing: border-box; opacity: 1; fill: rgb(254, 254, 254);"></rect>
+                        </svg>
+                    </svg>
+                </svg>
+            </section>
+        </section>
+    </section>
+    <section>
+        <p style="margin: 0px; font-size: 13px; letter-spacing: 1.5px; color: rgb(0, 0, 0);">02.中华人民共和国国庆节成立以来，在国庆庆典上进行过几次阅兵？</p>
+    </section>
+    <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+            <section style="display: inline-block; width: 100%; height: 45px; vertical-align: top; overflow: hidden auto; box-sizing: border-box;">
+                <section style="box-sizing: border-box; margin-top: 4px;">
+                    <section style="margin: 0px 0%; text-align: center; box-sizing: border-box;">
+                        <section style="border-width: 2px; border-style: solid; border-color: transparent; color: rgb(102, 102, 102); text-align: justify; box-sizing: border-box;">
+                            <p style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 13px; color: rgb(102, 102, 102); text-decoration: underline;">
+                  中华人民共和国国庆节成立以来，在国庆庆典上进行过
+                                <span style="color: rgb(230, 142, 151);">14次</span>阅兵。
+                
+                            </p>
+                        </section>
+                    </section>
+                </section>
+            </section>
+            <section style="box-sizing: border-box; margin-top: -45px; height: 45px;">
+                <svg width="100%" height="100%"
+                    xmlns="http://www.w3.org/2000/svg" style="box-sizing: border-box; transform: rotateZ(0deg); width: 100%;">
+                    <animate attributeName="opacity" fill="freeze" to="0" from="1" dur="4" begin="click" style="box-sizing: border-box;"></animate>
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" style="opacity: 1; box-sizing: border-box;">
+                        <animate attributeName="" fill="freeze" begin="click + 4s" dur="0" to="0%" style="box-sizing: border-box;"></animate>
+                        <svg width="100%" height="100%" style="box-sizing: border-box;">
+                            <rect width="100%" height="100%" x="0%" style="box-sizing: border-box; opacity: 1; fill: rgb(254, 254, 254);"></rect>
+                        </svg>
+                    </svg>
+                </svg>
+            </section>
+        </section>
+    </section>
+</section>

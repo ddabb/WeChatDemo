@@ -1,0 +1,67 @@
+<section>
+    <section style="display: inline-block; border-bottom: 3px solid rgb(164, 180, 243); margin-bottom: 5px;">
+        <p style="margin: 0px; font-size: 18px; letter-spacing: 1.5px; color: rgb(74, 106, 232);">01/8</p>
+    </section>
+    <section>
+        <p style="margin: 0px; font-size: 15px; font-weight: 700; color: rgb(0, 0, 0); letter-spacing: 1.5px;">“两只黄鹂鸣翠柳”的下一句是什么？</p>
+    </section>
+    <section style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 10px;">
+        <section style="width: 49%; box-shadow: rgb(243, 245, 253) 0px 0px 2px 2px; padding: 0px 5px 15px 2px; border-radius: 10px; margin-right: 10px;">
+            <p style="margin: 0px; font-size: 13px; line-height: 1.75; letter-spacing: 1.5px; color: rgb(102, 102, 102);">A.
+                
+                <br>草长莺飞二月天
+                
+                </p>
+            </section>
+            <section style="width: 49%; box-shadow: rgb(243, 245, 253) 0px 0px 2px 2px; padding: 0px 5px 15px 2px; border-radius: 10px;">
+                <p style="margin: 0px; font-size: 13px; line-height: 1.75; letter-spacing: 1.5px; color: rgb(102, 102, 102);">B.
+                    
+                    <br>一行白鹭上青天
+                    
+                    </p>
+                </section>
+            </section>
+            <section style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 10px;">
+                <section style="width: 49%; box-shadow: rgb(243, 245, 253) 0px 0px 2px 2px; padding: 0px 5px 15px 2px; border-radius: 10px; margin-right: 10px;">
+                    <p style="margin: 0px; font-size: 13px; line-height: 1.75; letter-spacing: 1.5px; color: rgb(102, 102, 102);">C.
+                        
+                        <br>轻舟已过万重山
+                        
+                        </p>
+                    </section>
+                    <section style="width: 49%; box-shadow: rgb(243, 245, 253) 0px 0px 2px 2px; padding: 0px 5px 15px 2px; border-radius: 10px;">
+                        <p style="margin: 0px; font-size: 13px; line-height: 1.75; letter-spacing: 1.5px; color: rgb(102, 102, 102);">D.
+                            
+                            <br>碧玉妆成一树高
+                            
+                            </p>
+                        </section>
+                    </section>
+                    <section style="box-sizing: border-box;">
+                        <section style="box-sizing: border-box;">
+                            <section style="display: inline-block; width: 100%; height: 100px; vertical-align: top; overflow: hidden auto; box-sizing: border-box;">
+                                <section style="box-sizing: border-box; margin-top: 4px;">
+                                    <section style="margin: 0px 0%; text-align: center; box-sizing: border-box;">
+                                        <section style="border-width: 2px; border-style: solid; border-color: transparent; color: rgb(102, 102, 102); text-align: justify; box-sizing: border-box;">
+                                            <p style="margin: 20px 0px 0px; padding: 0px; box-sizing: border-box; font-size: 13px; color: rgb(102, 102, 102);">正确答案：B.一行白鹭上青天</p>
+                                        </section>
+                                    </section>
+                                </section>
+                            </section>
+                            <section style="box-sizing: border-box; margin-top: -100px; height: 100px;">
+                                <svg width="100%" height="100%"
+                                    xmlns="http://www.w3.org/2000/svg" style="box-sizing: border-box; transform: rotateZ(0deg); width: 100%;">
+                                    <animate attributeName="opacity" fill="freeze" to="0" from="1" dur="2" begin="click" style="box-sizing: border-box;"></animate>
+                                    <svg
+                                        xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" style="opacity: 1; box-sizing: border-box;">
+                                        <animate attributeName="" fill="freeze" begin="click + 1s" dur="0" to="0%" style="box-sizing: border-box;"></animate>
+                                        <svg width="100%" height="100%" style="box-sizing: border-box;">
+                                            <rect width="100%" height="100%" x="0%" style="box-sizing: border-box; opacity: 1; fill: rgb(254, 254, 254);"></rect>
+                                            <text x="50%" y="50%" font-size="16" fill="#bdc7f7" style="text-anchor: middle; font-weight: bold;">点击查看正确答案</text>
+                                        </svg>
+                                    </svg>
+                                </svg>
+                            </section>
+                        </section>
+                    </section>
+                </section>

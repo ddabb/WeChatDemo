@@ -1,0 +1,62 @@
+<section style="box-sizing: border-box; width: 100%; display: flex; flex-direction: column; align-items: flex-start;">
+    <section style="display: flex; align-items: center;">
+        <section style="margin-right: 5px; flex-shrink: 0; width: 16px; height: 16px; border: 1px solid rgb(0, 0, 0); background-color: rgb(254, 115, 144);">
+            <p style="margin: 0px; font-size: 15px; text-align: center; line-height: 16px; font-weight: 700;">1</p>
+        </section>
+        <section>
+            <p style="margin: 0px; letter-spacing: 1.5px; font-size: 15px; font-weight: 700; color: rgb(0, 0, 0);">下面图画中表现的是什么成语？</p>
+        </section>
+    </section>
+    <section style="margin: 15px 0px 0px 23px; display: flex; align-items: center;">
+        <section style="margin-right: 50px;">
+            <p style="margin: 0px; letter-spacing: 1.5px; font-size: 13px; color: rgb(102, 102, 102);">A.庖丁解牛</p>
+        </section>
+        <section>
+            <p style="margin: 0px; letter-spacing: 1.5px; font-size: 13px; color: rgb(102, 102, 102);">B.对牛弹琴</p>
+        </section>
+    </section>
+    <section style="margin: 10px 0px 0px 23px; display: flex; align-items: center;">
+        <section style="margin-right: 50px;">
+            <p style="margin: 0px; letter-spacing: 1.5px; font-size: 13px; color: rgb(102, 102, 102);">C.牛刀小试</p>
+        </section>
+        <section>
+            <p style="margin: 0px; letter-spacing: 1.5px; font-size: 13px; color: rgb(102, 102, 102);">D.语音绕梁</p>
+        </section>
+    </section>
+    <section style="background-color: rgb(254, 115, 144); margin: 20px 20px 10px;">
+        <section style="border: 1px solid rgb(254, 115, 144); margin: -7px 7px 7px -7px;">
+            <img src="https://editor-material.oss-cn-beijing.aliyuncs.com/style/20190925/1569396079/56876100_0.jpeg" alt="" style="vertical-align: middle; max-width: 100%;">
+            </section>
+        </section>
+        <section style="align-self: center;">
+            <p style="margin: 0px; letter-spacing: 1.5px; font-size: 12px; color: rgb(254, 160, 178);">点击显示正确答案</p>
+        </section>
+        <section style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+                <section style="display: inline-block; width: 100%; height: 30px; vertical-align: top; overflow: hidden auto; box-sizing: border-box;">
+                    <section style="box-sizing: border-box; margin-top: 4px;">
+                        <section style="margin: 0px 0%; text-align: center; box-sizing: border-box;">
+                            <section style="border-width: 2px; border-style: solid; border-color: transparent; color: rgb(102, 102, 102); text-align: justify; box-sizing: border-box;">
+                                <p style="margin: 0px 0px 0px 20px; padding: 0px; box-sizing: border-box; font-size: 13px; color: rgb(102, 102, 102);">正确答案：
+                                    <span style="color: rgb(230, 142, 151);">B.对牛弹琴</span>
+                                </p>
+                            </section>
+                        </section>
+                    </section>
+                </section>
+                <section style="box-sizing: border-box; margin-top: -30px; height: 30px;">
+                    <svg width="100%" height="100%"
+                        xmlns="http://www.w3.org/2000/svg" style="box-sizing: border-box; transform: rotateZ(0deg); width: 100%;">
+                        <animate attributeName="opacity" fill="freeze" to="0" from="1" dur="4" begin="click" style="box-sizing: border-box;"></animate>
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" style="opacity: 1; box-sizing: border-box;">
+                            <animate attributeName="" fill="freeze" begin="click + 4s" dur="0" to="0%" style="box-sizing: border-box;"></animate>
+                            <svg width="100%" height="100%" style="box-sizing: border-box;">
+                                <rect width="100%" height="100%" x="0%" style="box-sizing: border-box; opacity: 1; fill: rgb(254, 254, 254);"></rect>
+                            </svg>
+                        </svg>
+                    </svg>
+                </section>
+            </section>
+        </section>
+    </section>
